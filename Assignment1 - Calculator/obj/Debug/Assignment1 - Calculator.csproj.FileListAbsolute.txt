@@ -1,0 +1,20 @@
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\bin\Debug\Assignment1 - Calculator.exe.config
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\bin\Debug\Assignment1 - Calculator.exe
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\bin\Debug\Assignment1 - Calculator.pdb
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1___Calculator.Calculator.resources
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1___Calculator.Properties.Resources.resources
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.exe
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.pdb
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\bin\Debug\Assignment1 - Calculator.exe.config
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\bin\Debug\Assignment1 - Calculator.exe
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\bin\Debug\Assignment1 - Calculator.pdb
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1___Calculator.Calculator.resources
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1___Calculator.Properties.Resources.resources
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.exe
+C:\Users\alexa\Desktop\DSU Computer Science\Spring 21\Object Oriented Design\Calculator.AlexGarcia\Assignment1 - Calculator\obj\Debug\Assignment1 - Calculator.pdb
